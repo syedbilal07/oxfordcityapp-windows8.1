@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BILAL</Machine>
+    <WindowsUser>Bilal</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9dfa4705-1b1b-4a72-bd11-5e6d2f57768a</PackageIdentityName>
+    <RegisteredManifestChecksum>CE3B147F96C25AB322C97B55822476BBFA545E89EABFC0D77CB49D38011562EB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9dfa4705-1b1b-4a72-bd11-5e6d2f57768a_1.0.0.0_neutral__aj0r9tpzxd94g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9dfa4705-1b1b-4a72-bd11-5e6d2f57768a_aj0r9tpzxd94g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9dfa4705-1b1b-4a72-bd11-5e6d2f57768a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=STUDENT</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-21T16:57:37.265</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\OxfordCity.exe">
+      <PackagePath>OxfordCity.exe</PackagePath>
+      <Modified>2018-10-21T16:57:36.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\Assets\Content Photo.jpg">
+      <PackagePath>Assets\Content Photo.jpg</PackagePath>
+      <Modified>2018-10-19T13:43:20.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\Assets\Main Photo.jpg">
+      <PackagePath>Assets\Main Photo.jpg</PackagePath>
+      <Modified>2018-10-18T15:50:37.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-19T14:30:40.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-19T14:31:15.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-06T18:18:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-06T18:18:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2018-10-21T15:26:06.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\Connection.xbf">
+      <PackagePath>Connection.xbf</PackagePath>
+      <Modified>2018-10-21T15:26:06.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\ContentPage.xbf">
+      <PackagePath>ContentPage.xbf</PackagePath>
+      <Modified>2018-10-21T15:26:06.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2018-10-21T15:26:06.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\Accomodations.xbf">
+      <PackagePath>Pages\Accomodations.xbf</PackagePath>
+      <Modified>2018-10-21T15:26:06.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\Restaurants.xbf">
+      <PackagePath>Pages\Restaurants.xbf</PackagePath>
+      <Modified>2018-10-21T15:26:06.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\Shopping.xbf">
+      <PackagePath>Pages\Shopping.xbf</PackagePath>
+      <Modified>2018-10-21T15:26:06.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\StaticAccomodations.xbf">
+      <PackagePath>Pages\StaticAccomodations.xbf</PackagePath>
+      <Modified>2018-10-21T15:26:06.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\StaticRestaurants.xbf">
+      <PackagePath>Pages\StaticRestaurants.xbf</PackagePath>
+      <Modified>2018-10-21T15:26:06.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\StaticShopping.xbf">
+      <PackagePath>Pages\StaticShopping.xbf</PackagePath>
+      <Modified>2018-10-21T15:26:06.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\StaticContentPage.xbf">
+      <PackagePath>StaticContentPage.xbf</PackagePath>
+      <Modified>2018-10-21T15:26:06.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2018-10-21T16:57:37.031</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

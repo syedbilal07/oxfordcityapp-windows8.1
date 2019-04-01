@@ -1,0 +1,183 @@
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\bin\Debug\App.xbf
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\bin\Debug\MainPage.xbf
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\bin\Debug\page2.xbf
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\bin\Debug\OxfordCity.exe
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\bin\Debug\OxfordCity.pdb
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\bin\Debug\resources.pri
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\bin\Debug\AppxManifest.xml
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\bin\Debug\OxfordCity.build.appxrecipe
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\App.g.i.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\App.g.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\MainPage.g.i.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\MainPage.g.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page2.g.i.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page2.g.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\XamlTypeInfo.g.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\App.xaml
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\App.xbf
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\XamlSaveStateFile.xml
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\MainPage.xaml
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page2.xaml
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\MainPage.xbf
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page2.xbf
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\OxfordCity.exe
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\OxfordCity.pdb
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\priconfig.xml
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\priconfig.xml.intermediate
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\layout.resfiles
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\layout.resfiles.intermediate
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\resources.resfiles
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\resources.resfiles.intermediate
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\pri.resfiles
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\pri.resfiles.intermediate
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\qualifiers.txt
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\qualifiers.txt.intermediate
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\ProjectArchitectures.txt
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\bin\Debug\page3.xbf
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page3.g.i.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page3.g.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page3.xaml
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page3.xbf
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\bin\Debug\page4.xbf
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\bin\Debug\page5.xbf
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page4.g.i.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page4.g.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page5.g.i.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page5.g.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page4.xaml
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page5.xaml
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page4.xbf
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page5.xbf
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\bin\Debug\page6.xbf
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page6.g.i.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page6.g.cs
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page6.xaml
+c:\users\student\documents\visual studio 2013\Projects\OxfordCity\OxfordCity\obj\Debug\page6.xbf
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\bin\Debug\App.xbf
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\bin\Debug\MainPage.xbf
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\ContentPage.xbf
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\Shopping.xbf
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\Restaurants.xbf
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\Accomodations.xbf
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\bin\Debug\OxfordCity.exe
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\bin\Debug\OxfordCity.pdb
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\bin\Debug\resources.pri
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\bin\Debug\AppxManifest.xml
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\bin\Debug\OxfordCity.build.appxrecipe
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\App.g.i.cs
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\App.g.cs
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\MainPage.g.i.cs
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\MainPage.g.cs
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\ContentPage.g.i.cs
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\ContentPage.g.cs
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Shopping.g.i.cs
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Shopping.g.cs
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Restaurants.g.i.cs
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Restaurants.g.cs
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Accomodations.g.i.cs
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Accomodations.g.cs
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\App.xaml
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\ContentPage.xaml
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\App.xbf
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\ContentPage.xbf
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\XamlSaveStateFile.xml
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\MainPage.xaml
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Shopping.xaml
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Restaurants.xaml
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Accomodations.xaml
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\MainPage.xbf
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Shopping.xbf
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Restaurants.xbf
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Accomodations.xbf
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\OxfordCity.exe
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\OxfordCity.pdb
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\priconfig.xml
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\priconfig.xml.intermediate
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\layout.resfiles
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\layout.resfiles.intermediate
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\resources.resfiles
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\resources.resfiles.intermediate
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\pri.resfiles
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\pri.resfiles.intermediate
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\qualifiers.txt
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\qualifiers.txt.intermediate
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\STUDENT\Desktop\OxfordCity\OxfordCity\obj\Debug\ProjectArchitectures.txt
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\App.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\Connection.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\ContentPage.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\MainPage.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\Accomodations.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\Restaurants.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\Shopping.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\StaticAccomodations.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\StaticRestaurants.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\Pages\StaticShopping.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\StaticContentPage.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\OxfordCity.exe
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\OxfordCity.pdb
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\resources.pri
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\AppxManifest.xml
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\bin\Debug\OxfordCity.build.appxrecipe
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\App.g.i.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\App.g.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Connection.g.i.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Connection.g.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\ContentPage.g.i.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\ContentPage.g.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\MainPage.g.i.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\MainPage.g.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Accomodations.g.i.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Accomodations.g.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Restaurants.g.i.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Restaurants.g.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Shopping.g.i.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Shopping.g.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\StaticAccomodations.g.i.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\StaticAccomodations.g.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\StaticRestaurants.g.i.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\StaticRestaurants.g.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\StaticShopping.g.i.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\StaticShopping.g.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\StaticContentPage.g.i.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\StaticContentPage.g.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\App.xaml
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Connection.xaml
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\MainPage.xaml
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Accomodations.xaml
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Restaurants.xaml
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\StaticAccomodations.xaml
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\StaticRestaurants.xaml
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\StaticShopping.xaml
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\App.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Connection.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\MainPage.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Accomodations.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Restaurants.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\StaticAccomodations.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\StaticRestaurants.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\StaticShopping.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\ContentPage.xaml
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Shopping.xaml
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\StaticContentPage.xaml
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\ContentPage.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\Pages\Shopping.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\StaticContentPage.xbf
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\OxfordCity.exe
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\OxfordCity.pdb
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\priconfig.xml
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\priconfig.xml.intermediate
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\layout.resfiles
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\layout.resfiles.intermediate
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\resources.resfiles
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\resources.resfiles.intermediate
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\pri.resfiles
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\pri.resfiles.intermediate
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\qualifiers.txt
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Bilal\Desktop\OxfordCity\OxfordCity\obj\Debug\ProjectArchitectures.txt

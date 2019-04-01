@@ -1,0 +1,63 @@
+﻿<Page
+    x:Class="OxfordCity.Pages.StaticRestaurants"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:OxfordCity.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image Source="../Assets/Content Photo.jpg" Margin="-10,-10,10,10" Stretch="UniformToFill"></Image>
+        <StackPanel HorizontalAlignment="Center">
+            <TextBlock Margin="10" FontSize="30" HorizontalAlignment="Center">Restaurants</TextBlock>
+        </StackPanel>
+
+        <StackPanel>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Margin="10" FontSize="30">i. Pierre Victoire</TextBlock>
+            <TextBlock Margin="10" FontSize="30">(French Restaurant)</TextBlock>
+            <TextBlock Margin="10" FontSize="30">Relaxed, candlelit French bistro with wooden furniture, fresh flowers and fixed-price menu options.</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Offerings: Late-night food</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Dining options: Dessert</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Atmosphere: Cozy, Casual</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Address : 9 Little Clarendon St, Oxford OX1 2HP, UK</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Website :  pierrevictoire.co.uk</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Cell : +44 1865 316616</TextBlock>
+        </StackPanel>
+
+        <StackPanel>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Margin="10" FontSize="30">ii. Spiced Roots Restaurant</TextBlock>
+            <TextBlock Margin="10" FontSize="30">(Caribbean Restaurant)</TextBlock>
+            <TextBlock Margin="10" FontSize="30">At Spiced Roots we pride ourselves on delivering a genuine Caribbean Experience.</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Accessibility: Wheelchair accessible entrance</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Offerings: Beer, Late-night food</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Dining options: Lunch, Dinner, Dessert, Seating</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Atmosphere: Cozy, Casual</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Payments: Debit cards</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Address :  64 Cowley Rd, Oxford OX4 1JB, UK</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Website :  spicedroots.com</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Cell : +44 1865 249888</TextBlock>
+        </StackPanel>
+        <Frame Name="MainFrame" Margin="0,33,0,-33">
+            <Button x:Name="BackButton" Style="{StaticResource NavigationBackButtonNormalStyle}" VerticalAlignment="Top" HorizontalAlignment="Left" Click="Go_Back"/>
+        </Frame>
+    </Grid>
+</Page>

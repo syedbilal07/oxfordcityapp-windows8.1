@@ -1,0 +1,86 @@
+﻿<Page
+    x:Class="OxfordCity.Pages.StaticAccomodations"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:OxfordCity.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image Source="../Assets/Content Photo.jpg" Margin="-10,-10,10,10" Stretch="UniformToFill"></Image>
+        <StackPanel HorizontalAlignment="Center">
+            <TextBlock Margin="10" FontSize="30" HorizontalAlignment="Center">Accomodations</TextBlock>
+        </StackPanel>
+
+        <StackPanel>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Margin="10" FontSize="30">i. Red Mullions Guest House (Headington, Oxford)</TextBlock>
+            <TextBlock Margin="10" FontSize="30">4 Star Hotel</TextBlock>
+            <TextBlock Margin="10" FontSize="30">$126</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Airy rooms in an unassuming guesthouse offering free breakfast And Wi-Fi, plus a garden.</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Address : 23 London Rd, Oxford OX3 7RE, UK</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Website : redmullions.co.uk</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Cell : +44 1865 742741</TextBlock>
+        </StackPanel>
+
+        <StackPanel>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Margin="10" FontSize="30">ii. Heather House</TextBlock>
+            
+            <TextBlock Margin="10" FontSize="30">4 Star Hotel</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">
+            	<Run Text="Heather House Bed and Breakfast provides friendly and comfortable accommodation within easy (20 minutes) walking distance from Oxford city centre."/>
+            </TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Address : 192 Iffley Rd, Oxford OX4 1SD, UK</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Website : heatherhouseoxford.com</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Cell : +44 1865 249757</TextBlock>
+        </StackPanel>
+
+        <StackPanel>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Text="&#xD;"/>
+            <TextBlock Margin="10" FontSize="30">iii. The Burlington House</TextBlock>
+            <TextBlock Margin="10" FontSize="30">4 Star Hotel</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Colourful rooms in an upscale 1889 lodging featuring free Wi-Fi, gourmet breakfast and parking.</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Address : 374 Banbury Rd, Oxford OX2 7PP, UK</TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="20">Website : burlington-hotel-oxford.co.uk</TextBlock>
+        </StackPanel>
+        <Frame Name="MainFrame" Margin="0,33,0,-33">
+            <Button x:Name="BackButton" Style="{StaticResource NavigationBackButtonNormalStyle}" VerticalAlignment="Top" HorizontalAlignment="Left" Click="Go_Back"/>
+        </Frame>
+    </Grid>
+</Page>
